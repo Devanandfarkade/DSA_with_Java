@@ -1,0 +1,97 @@
+Study Data Structures:
+Arrays: Learn about dynamic arrays and their operations.
+Linked Lists: Understand singly, doubly, and circular linked lists.
+Stacks and Queues: Explore their applications and implementations.
+Trees: Study binary trees, binary search trees, and tree traversal algorithms.
+Graphs: Learn graph representations and graph traversal algorithms (BFS, DFS).
+Hash Tables: Understand hash functions and collision handling.
+
+
+Study Algorithms:
+Sorting Algorithms: Learn bubble sort, insertion sort, selection sort, merge sort, and quicksort.
+Searching Algorithms: Understand linear search and binary search.
+Recursion: Master recursive thinking and its applications.
+Dynamic Programming: Learn how to solve problems using dynamic programming techniques.
+Greedy Algorithms: Explore greedy approaches to problem-solving.
+
+Practice Regularly:
+Solve coding problems on platforms like LeetCode, HackerRank, and GeeksforGeeks.
+Focus on understanding the underlying concepts rather than memorizing solutions.
+Start with easier problems and gradually increase the difficulty level.
+Participate in coding contests to test your skills and improve your problem-solving speed.
+
+
+Visualize and Implement:
+Use visualization tools to understand how data structures and algorithms work.
+Implement data structures and algorithms from scratch to solidify your understanding.
+
+
+Seek Resources:
+Utilize online courses, tutorials, and books to learn DSA concepts.
+Refer to documentation and community forums for help and guidance.
+
+
+Consistency and Patience:
+Learning DSA takes time and effort.
+Be consistent with your practice and don't get discouraged by challenges.
+Celebrate your progress and stay motivated.
+
+
+
+
+
+
+🔹 Beginner to Intermediate
+1. GeeksforGeeks (GFG)
+✅ Topic-wise DSA practice
+
+✅ Tons of editorial + explanations
+
+✅ Great for learning theory and solving beginner-to-intermediate problems
+
+🔗 https://www.geeksforgeeks.org/
+
+2. HackerRank
+✅ Beginner-friendly interface
+
+✅ Challenges with step-by-step learning tracks
+
+✅ Helps build coding discipline
+
+🔗 https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
+
+🔹 Intermediate to Advanced
+3. LeetCode
+✅ Best for coding interviews
+
+✅ Company-wise problems
+
+✅ Problems are tagged by difficulty & topic
+
+🔗 https://leetcode.com/
+
+✅ Tip: Use the “DSA Sheet” or “Top Interview Questions” list on LeetCode to stay focused.
+
+🔹 Competitive Programming / Challenges
+4. Codeforces
+✅ Timed contests
+
+✅ Very strong for algorithm depth
+
+🔗 https://codeforces.com/
+
+5. CodeChef
+✅ Indian platform with contests
+
+✅ Practice section is well categorized
+
+🔗 https://www.codechef.com/
+
+🏁 Recommended Path for You:
+Start with: GeeksforGeeks (easy navigation by topic)
+
+Then move to: LeetCode (for deeper problem solving)
+
+Use HackerRank: For warm-up or challenges
+
+Would you like me to suggest a customized platform plan (e.g., Week 1 on GFG, Week 2 switch to LeetCode)?
